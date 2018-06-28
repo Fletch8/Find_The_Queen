@@ -16,7 +16,8 @@ Everyone will get a chance to **be creative**, and work through some really **to
 ### Technical Requirements
 
 Your app must:
-* Include Wireframes and User Stories - Project must be approved Before you start coding 
+* **HAVE IT's OWN REPO, under your github Name, NOT A FORK**
+* **Include Wireframes and User Stories** - Project must be approved Before you start coding 
 * **Render a game in the browser**
 * **Switch turns** between two players, if your game doesn't make sense for two players talk to your local instructor about it 
 * **Design logic for winning** & **visually display which player won**
