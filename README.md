@@ -30,6 +30,7 @@ Your app must:
 * Use **Javascript or jQuery** for **DOM manipulation**
 * **Deploy your game online**, where the rest of the world can access it
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
+* Be Reasonably Complex
 
 ---
 
