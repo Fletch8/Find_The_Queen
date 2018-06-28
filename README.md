@@ -20,7 +20,6 @@ Your app must:
 * **Include Wireframes and User Stories** - Project must be approved Before you start coding 
 - Wireframe - Basically draw out what your game will look like, can use papers or any wireframe tool you find online
 - User Stories - Should be the words of how a user interacts with your game 
-- i.e - 
       1.  The user click starts and the level starts
       2.  When the user hits the ```f key``` a fire ball is catuplulated into the galaxy. 
 * **Render a game in the browser**
