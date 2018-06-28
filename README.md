@@ -4,19 +4,21 @@
 
 Let's start out with something fun - **a game!**
 
-Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with a few small apps (Tomagotchi, Calculator, Weather, Hangman), it's up to you to come up with a fun and interesting game to build.
+Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with a few small apps (Tomagotchi, Calculator), it's up to you to come up with a fun and interesting game to build.
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
 
 
 ---
 
+
+
 ### Technical Requirements
 
 Your app must:
-
+* Include Wireframes and User Stories - Project must be approved Before you start coding 
 * **Render a game in the browser**
-* **Switch turns** between two players
+* **Switch turns** between two players, if your game doesn't make sense for two players talk to your local instructor about it 
 * **Design logic for winning** & **visually display which player won**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
@@ -28,6 +30,7 @@ Your app must:
 
 ### Necessary Deliverables
 
+* A working MVP (minium viable product) what is the absolute bare minimum functionality for you game, do not make it more complex until you've completed your MVP.
 * A **working game, built by you**, hosted somewhere on the internet
 * A **link to your hosted working game** in the URL section of your Github repo
 * A **git repository hosted on Github**, with a link to your hosted game, and frequent commits dating back to the very beginning of the project
