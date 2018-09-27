@@ -2,7 +2,7 @@
 
 ### Overview
 
-Let's start out with something fun - **a game!**
+Let's start out with something fun—**a game!**
 
 Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with a few small apps (Tomagotchi, Calculator), it's up to you to come up with a fun and interesting game to build.
 
@@ -16,21 +16,21 @@ Everyone will get a chance to **be creative**, and work through some really **to
 ### Technical Requirements
 
 Your app must:
-* **HAVE IT's OWN REPO, under your github Name, NOT A FORK**
-* **Include Wireframes and User Stories** - Project must be approved Before you start coding 
-- **Wireframe** - Basically draw out what your game will look like, can use papers or any wireframe tool you find online
-- **User Stories** - Should be the words of how a user interacts with your game 
-1.  The user click starts and the level starts
-2.  When the user hits the ```f key``` a fire ball is catuplulated into the galaxy. 
+* **HAVE ITS OWN REPO, under your github account. NOT A FORK.**
+* **Include Wireframes and User Stories in the README** - Project must be approved before you start coding 
+- **Wireframe:** - Basically draw out what your game will look like—very different way it could look. You can use paper or any wireframe tool you find online.
+- **User Stories** - Wording should center around how a user interacts with your game, for example:
+    1.  The user click starts and the level starts
+    2.  When the user hits the ```f key``` a fire ball is catuplulated into the galaxy. 
 * **Render a game in the browser**
 * **Switch turns** between two players, if your game doesn't make sense for two players talk to your local instructor about it 
 * **Design logic for winning** & **visually display which player won**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
-* Use **Javascript or jQuery** for **DOM manipulation**
-* **Deploy your game online**, where the rest of the world can access it
+* Use **JavaScript or jQuery** for **DOM manipulation**
+* **Deploy your game online**, where the rest of the world can access it (we will show you how)
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
-* Be Reasonably Complex
+* Be reasonably complex
 
 ---
 
@@ -39,14 +39,14 @@ Your app must:
 * A working MVP (minium viable product) what is the absolute bare minimum functionality for you game, do not make it more complex until you've completed your MVP.
 * A **working game, built by you**, hosted somewhere on the internet
 * A **link to your hosted working game** in the URL section of your Github repo
-* A **git repository hosted on Github**, with a link to your hosted game, and frequent commits dating back to the very beginning of the project
+* A **git repository hosted on Github**, with a link to your hosted game, and frequent commits dating back to the very beginning of the project.
 * **A ``README.md`` file** with an explanation of what the project is and why you made it, your user stories, explanations of the technologies used, the approach taken, installation instructions, unsolved problems, the other components previously indicated (if applicable).  In this project, also include your wireframes in the readme. 
 
 ---
 
 ### Extra challenge...
 
-* See if you can reseasrch and use at least thing/technology/resource we didn't explicitly study in class (Some API? Some sweet Library? Three.js? Skeleton or Bootstrap? Firebase? Canvas? D3? CSS Keyframes and Animation?)
+* See if you can reseasrch and use at least thing/technology/resource we didn't explicitly study in class (Some API? Some sweet Library? Three.js? Skeleton or Bootstrap? Firebase? Canvas? D3? CSS Keyframes and Animation? Note: Phaser is not allowed, and **these will be subject to instructor proposal**)
 
 ---
 
@@ -54,10 +54,10 @@ Your app must:
 
 * **Break the project down into different components** (data, presentation, views, style, DOM manipulation) and brainstorm each component individually. Use whiteboards!
 * **Use your Development Tools** (console.log, element inspector, alert statements, etc) to debug and solve problems
-* During the day, work through problems in class & **ask questions when you need to!** We're here to help prevent you from burning through your time with wild goose chases. Think about adding relevant code to your game each night too, instead of, you know... _procrastinating_.
-* **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version. There should be _at least_ a couple dozen commits.
+* During the day, work through problems in class & **ask questions when you need to!** We're here to help prevent you from burning through your time with wild goose chases. Add relevant code to your game each night too, instead of, you know... _procrastinating_.
+* **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version. There should be _at least_ a couple dozen commits. 
 * **Consult documentation resources** (MDN, jQuery, etc.) at home to better understand what you’ll be getting into.
-* **Don’t be afraid to write code that you know you will have to remove later.** Create temporary elements (buttons, links, etc) that trigger events if real data is not available. For example, if you’re trying to figure out how to change some text when the game is over but you haven’t solved the win/lose game logic, you can create a button to simulate that until then.
+* **Plan to write code that you know you will have to remove later.** Create temporary elements (buttons, links, etc) that trigger events if real data is not available. For example, if you’re trying to figure out how to change some text when the game is over but you haven’t solved the win/lose game logic, you can create a button to simulate that until then.
 
 ---
 
@@ -107,7 +107,7 @@ https://obajuluwa3.github.io/3-Card-Monte/
 
 * __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
 
-* __Creativity__: Did you added a personal spin or creative element into your project submission? Did you deliver something of value to the end user (not just a login button and an index page)?
+* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you deliver something of value to the end user (not just a login button and an index page)?
 
 * __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors have in class?
 
