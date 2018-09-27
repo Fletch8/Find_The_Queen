@@ -11,13 +11,16 @@ Everyone will get a chance to **be creative**, and work through some really **to
 
 ---
 
+### Proposal
+
+Your Project must be approved before you start coding. Your instructor will need to see and approve your user stories and wireframes, and will want you to have an idea of the organization of your app before your start.  This may require you to go back to the drawing board.  The instructor will help you make sure that you scoped out an achievable MVP (simple enough that you think you could get it built well ahead of the deadline) well-defined, along with a few nice-to-haves and stretch goals. 
 
 
 ### Technical Requirements
 
 Your app must:
 * **HAVE ITS OWN REPO, under your github account. NOT A FORK.**
-* **Include Wireframes and User Stories in the README** - Project must be approved before you start coding 
+* **Include Wireframes and User Stories in the README** - 
 - **Wireframe:** - Basically draw out what your game will look like—very different way it could look. You can use paper or any wireframe tool you find online.
 - **User Stories** - Wording should center around how a user interacts with your game, for example:
     1.  The user click starts and the level starts
@@ -41,12 +44,6 @@ Your app must:
 * A **link to your hosted working game** in the URL section of your Github repo
 * A **git repository hosted on Github**, with a link to your hosted game, and frequent commits dating back to the very beginning of the project.
 * **A ``README.md`` file** with an explanation of what the project is and why you made it, your user stories, explanations of the technologies used, the approach taken, installation instructions, unsolved problems, the other components previously indicated (if applicable).  In this project, also include your wireframes in the readme. 
-
----
-
-### Extra challenge...
-
-* See if you can reseasrch and use at least thing/technology/resource we didn't explicitly study in class (Some API? Some sweet Library? Three.js? Skeleton or Bootstrap? Firebase? Canvas? D3? CSS Keyframes and Animation? Note: Phaser is not allowed, and **these will be subject to instructor proposal**)
 
 ---
 
@@ -90,12 +87,17 @@ https://jccraigw.github.io/project1_Desktop/
 (same as above, mobile friendly): https://jccraigw.github.io/project1/
 https://obajuluwa3.github.io/3-Card-Monte/
 
+---
+
+### Extra challenge...
+
+* See if you can reseasrch and use at least thing/technology/resource we didn't explicitly study in class (Some API? Some sweet library? Skeleton or Bootstrap? Firebase? Canvas? Three.js? D3? CSS Keyframes/Animation? Note: Phaser is _not_ allowed, and **outside library use is strictly subject to instructor approval**)
 
 ---
 
 ### Useful Resources
 
-* **[MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** _(a great reference for all things Vanilla Javascript)_
+* **[MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** _(a great reference for all things  Javascript)_
 * **[jQuery Docs](http://api.jquery.com)** _(if you're using jQuery)_
 * **[Github Pages](https://pages.github.com)** _(for hosting your game)_
 
@@ -122,4 +124,4 @@ https://obajuluwa3.github.io/3-Card-Monte/
     **2** | _Meets expectations, good job!_
     **3** | _Exceeds expectations, you wonderful creature, you!_
 
- This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
