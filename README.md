@@ -120,6 +120,6 @@ https://obajuluwa3.github.io/3-Card-Monte/
     **0** | _Incomplete._
     **1** | _Does not meet expectations._
     **2** | _Meets expectations, good job!_
-    **3** | _Exceeds expectations, you wonderful creature, you!_
+    **3** | _Exceeds expectations, great job!_
 
 This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
