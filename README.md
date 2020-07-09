@@ -72,18 +72,6 @@ Test your wits & knowledge with whatever-the-heck you know about (so you can act
 
 ---
 
-### A few from earlier cohorts
-
-https://kmikitin.github.io/Quarto/ <br>
-https://sierramoore.github.io/vampire-game/ <br>
-https://scrummish.github.io/Space-Invaders-2018/ <br>
-https://webermn15.github.io/Scorch_a-scorched-earth-clone/ <br>
-https://anthonyjlower.github.io/canvas-football-game/ <br>
-https://cswormstedt.github.io/project1/
-https://theprosumer.github.io/theprosumer.io/project1/
-https://jccraigw.github.io/project1_Desktop/
-(same as above, mobile friendly): https://jccraigw.github.io/project1/
-https://obajuluwa3.github.io/3-Card-Monte/
 
 ---
 
