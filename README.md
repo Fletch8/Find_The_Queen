@@ -70,6 +70,17 @@ Sometimes just called "Memory", it's a card game in which all of the cards are l
 ##### Self-scoring Trivia
 Test your wits & knowledge with whatever-the-heck you know about (so you can actually win). Guess answers, have the computer tell you how right you are!
 
+1. **Blackjack**
+1. **Simon** (warning: will require asynchronous timing)
+1. **Slot Machine**
+
+#### Little more challenging
+
+1. **Minesweeper**
+1. **Roulette**
+1. **Checkers** (no AI required - player vs. player is fine)
+1. **Solitaire**
+1. **Battleship** (would require a little AI to implement a computer opponent)
 ---
 
 
