@@ -31,7 +31,7 @@ Your app must:
 * **Design logic for winning** & **visually display which player won**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
-* Use **JavaScript or jQuery** for **DOM manipulation**
+* Use **JavaScript** for **DOM manipulation**
 * **Deploy your game online**, where the rest of the world can access it (we will show you how)
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
 * Be reasonably complex
@@ -54,7 +54,7 @@ Your app must:
 * **Use your Development Tools** (console.log, element inspector, alert statements, etc) to debug and solve problems
 * During the day, work through problems in class & **ask questions when you need to!** We're here to help prevent you from burning through your time with wild goose chases. Add relevant code to your game each night too, instead of, you know... _procrastinating_.
 * **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version. There should be _at least_ a couple dozen commits. 
-* **Consult documentation resources** (MDN, jQuery, etc.) at home to better understand what you’ll be getting into.
+* **Consult documentation resources** (MDN, etc.) at home to better understand what you’ll be getting into.
 * **Plan to write code that you know you will have to remove later.** Create temporary elements (buttons, links, etc) that trigger events if real data is not available. For example, if you’re trying to figure out how to change some text when the game is over but you haven’t solved the win/lose game logic, you can create a button to simulate that until then.
 
 ---
@@ -96,7 +96,6 @@ https://obajuluwa3.github.io/3-Card-Monte/
 ### Useful Resources
 
 * **[MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** _(a great reference for all things  Javascript)_
-* **[jQuery Docs](http://api.jquery.com)** _(if you're using jQuery)_
 * **[Github Pages](https://pages.github.com)** _(for hosting your game)_
 
 ---
