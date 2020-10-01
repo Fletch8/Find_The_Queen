@@ -114,4 +114,8 @@ Test your wits & knowledge with whatever-the-heck you know about (so you can act
 This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
 
 ### Due Dates
+1. Your planning materials are due by Monday, October 5th, 2020 and will be submitted using a Google Form distributed by your instructors.
+1. You will present your project, in whatever form it's currently in (working, buggy, or broken), on Friday, October 9th, 2020.
 
+### Resubmission Policy
+All students in General Assembly's Software Engineering Immersive are permitted to resubmit one (1) project that does not meet expectations over the course of their 12-week cohort. Students are required to pass all projects in order to continue in the course. Failing a project may jeopardize a student's eligibility to graduate and recieve post-course career support. 
