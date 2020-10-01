@@ -61,7 +61,7 @@ Your app must:
 
 ### Sample Project Ideas
 
-##### Blackjack
+##### Blackjack/Poker
 Make a one player game where people down on their luck can lose all their money by guessing which card the computer will deal next!
 
 ##### Concentration
@@ -111,13 +111,7 @@ Test your wits & knowledge with whatever-the-heck you know about (so you can act
 
 * __Deployment__: Did you deploy your application to a public url using GitHub Pages?
 
-* __Total__: Your instructors will give you a total score on your project between:
-
-    Score | Expectations
-    ----- | ------------
-    **0** | _Incomplete._
-    **1** | _Does not meet expectations._
-    **2** | _Meets expectations, good job!_
-    **3** | _Exceeds expectations, great job!_
-
 This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+
+### Due Dates
+
