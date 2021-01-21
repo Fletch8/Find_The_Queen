@@ -5,16 +5,17 @@
 
 Let's start out with something fun—**a game!**
 
-Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with a few small apps, it's up to you to come up with a fun and interesting game to build.
+Javascript games are **simple** projects with **well-defined** functionality that give you the opportunity to apply your new programming and DOM manipulation skills.
+
+Your priority here is to practice Javascript and programming concepts. We strongly recommend you use a simple, pre-existing game concept that gives you plenty of time to build strong Javascript practices instead of a highly unique game that bogs you down in complicated design and mechanics.
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
-
 
 ---
 
 ### Proposal
 
-**Your Project must be approved before you start coding.** Your instructor will need to see and approve your user stories and wireframes, and will want you to have an idea of the organization of your app before your start.  This may require you to go back to the drawing board.  The instructor will help you make sure that you scoped out an achievable MVP (simple enough that you think you could get it built well ahead of the deadline) well-defined, along with a few nice-to-haves and stretch goals. 
+**Your Project must be approved before you start coding.** Your instructor will need to see and approve your user stories and wireframes, and will want you to have an idea of the organization of your app before your start.  This may require you to go back to the drawing board.  The instructor will help you make sure that you scoped out an achievable **MVP** (minimum viable product; a project simple enough that you think can be built well ahead of a given deadline) that is well-defined, along with a few nice-to-haves and stretch goals. 
 
 
 ### Technical Requirements
@@ -22,12 +23,16 @@ Everyone will get a chance to **be creative**, and work through some really **to
 Your app must:
 * **HAVE ITS OWN REPO, under your github account. NOT A FORK.**
 * **Include Wireframes and User Stories in the README** 
-* **Wireframe:** - Basically draw out what your game will look like—very different way it could look. You can use paper or any wireframe tool you find online.
+* **Wireframes:** - Draw out the various what your game will look like by sketching various screens. Some wireframe tools:
+    1.  Pen/pencil & paper!
+    2.  Adobe XD
+    3.  InVision
 * **User Stories** - Wording should center around how a user interacts with your game, for example:
-    1.  The user click starts and the level starts
-    2.  When the user hits the ```f key``` a fire ball is catuplulated into the galaxy. 
+    1.  When the user click starts and the memory game starts.
+    2.  When the user clicks a card, the card flips over.
+    3.  When the user matches all pairs of cards, the game ends.
 * **Render a game in the browser**
-* **Switch turns** between two players, if your game doesn't make sense for two players talk to your local instructor about it 
+* **Switch turns** between two players, if your game doesn't make sense for two players talk to your local instructor about it.
 * **Design logic for winning** & **visually display which player won**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
@@ -40,7 +45,7 @@ Your app must:
 
 ### Necessary Deliverables
 
-* A working MVP (minium viable product) what is the absolute bare minimum functionality for you game, do not make it more complex until you've completed your MVP.
+* A working MVP containing the absolute bare minimum functionality for you game; do not make it more complex until you've completed your MVP.
 * A **working game, built by you**, hosted somewhere on the internet
 * A **link to your hosted working game** in the URL section of your Github repo
 * A **git repository hosted on Github**, with a link to your hosted game, and frequent commits dating back to the very beginning of the project.
@@ -59,7 +64,7 @@ Your app must:
 
 ---
 
-### Sample Project Ideas
+#### Sample Project Ideas
 
 #### Tamagotchi
 Create your own personal Tamagotchi (feel free to find image assets online or make your own). Add functionality to feed your Tamagotchi, play with it, and put it to sleep - without these three healthy habits, your Tamagotchi may get sick or pass away :(
@@ -73,6 +78,11 @@ Sometimes just called "Memory", it's a card game in which all of the cards are l
 #### Self-scoring Trivia
 Test your wits & knowledge with whatever-the-heck you know about (so you can actually win). Guess answers, have the computer tell you how right you are!
 
+#### Connect Four
+Two players take turns dropping colored discs into a vertical grid. The discs occupying the lowest available space within the column. Whoever connects four discs horizontally, vertically or diagonally wins the game.
+#### Hangman
+A classic guessing game where the user tries to guess a random word by suggesting letters within a certain number of guesses.
+
 1. **Blackjack**
 1. **Simon** (warning: will require asynchronous timing)
 1. **Slot Machine**
@@ -84,14 +94,6 @@ Test your wits & knowledge with whatever-the-heck you know about (so you can act
 1. **Checkers** (no AI required - player vs. player is fine)
 1. **Solitaire**
 1. **Battleship** (would require a little AI to implement a computer opponent)
----
-
-
----
-
-### Extra challenge...
-
-* See if you can reseasrch and use at least thing/technology/resource we didn't explicitly study in class (Some API? Some sweet library? Skeleton or Bootstrap? Firebase? Canvas? Three.js? D3? CSS Keyframes/Animation? Note: Phaser is _not_ allowed, and **outside library use is strictly subject to instructor approval**)
 
 ---
 
@@ -104,7 +106,7 @@ Test your wits & knowledge with whatever-the-heck you know about (so you can act
 
 ### Project Feedback + Evaluation
 
-* __Project Workflow__: Did you complete the user stories, wireframes, task tracking, and/or ERDs, as specified above? Did you use source control as expected for the phase of the program you’re in (detailed above)?
+* __Project Workflow__: Did you complete the user stories, wireframes and other tasks as specified above? Did you use source control as expected for the phase of the program you’re in (detailed above)?
 
 * __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
 
