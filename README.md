@@ -15,8 +15,9 @@ Your priority here is to practice Javascript and programming concepts. We strong
 
 ### Proposal
 
-**Your Project must be approved before you start coding.** Your instructor will need to see and approve your user stories and wireframes, and will want you to have an idea of the organization of your app before your start.  This may require you to go back to the drawing board.  The instructor will help you make sure that you scoped out an achievable **MVP** (minimum viable product; a project simple enough that you think can be built well ahead of a given deadline) that is well-defined, along with a few nice-to-haves and stretch goals. 
+**Your Project must be approved before you start coding.** Your instructor will need to see and approve your project README, and will want you to have an idea of the organization of your app before your start.  This may require you to go back to the drawing board.  The instructor will help you make sure that you scoped out an achievable **MVP** (minimum viable product; a project simple enough that you think can be built well ahead of a given deadline) that is well-defined, along with a few nice-to-haves and stretch goals.
 
+To get an idea of what your project proposal must include, visit the [**project README template**](https://git.generalassemb.ly/SEIR-111/README-Guide).
 
 ### Technical Requirements
 
@@ -101,6 +102,12 @@ A classic guessing game where the user tries to guess a random word by suggestin
 
 * **[MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** _(a great reference for all things  Javascript)_
 * **[Github Pages](https://pages.github.com)** _(for hosting your game)_
+
+---
+
+### Libraries and Frameworks
+
+* To ensure that the focus of this project remains on Javascript fundamentals and DOM manipulation, game frameworks such as Phaser are _not_ allowed, and **outside library use is strictly subject to instructor approval**. 
 
 ---
 
