@@ -1,0 +1,14 @@
+body {   
+    text-align: center;    
+}
+div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 1%;
+    margin-top: 1%;
+} 
+img {
+    width: 105px;
+    height: 185px;
+}
