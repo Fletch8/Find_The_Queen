@@ -1,14 +1,19 @@
 body {   
-    text-align: center;    
+    text-align: center; 
+    background-color: rgb(107, 166, 94);   
 }
 div{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin-left: 1%;
-    margin-top: 1%;
+    justify-content: center;
+    margin-left: 20px;
+    margin-top: 10px;
 } 
 img {
     width: 105px;
     height: 185px;
 }
+/* body .card-container {
+    margin: 300px;
+} */
