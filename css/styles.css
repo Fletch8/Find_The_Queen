@@ -16,12 +16,13 @@ img {
 }
 section{
     width: 500px;
-    border: solid 4px rgb(216, 35, 35);
+    /* border: solid 3px rgb(139,69,19);  */
     display: flex;
     justify-content: center;
     margin: 10px;
     padding: 10px;
     margin-left: 35%;
+    /* background-color: rgb(101, 175, 169); */
 }
 p {
     margin-right: 15px;
@@ -29,8 +30,14 @@ p {
     margin-top: 25px;
 }
 button {
+    height: 35px;
     margin-right: 5px;
     margin-left: 5px;
+    margin-top: 15px;
+}
+hr {
+    color: rgb(139,69,19);
+    height: 2px;
 }
 /* p {
     display: flex;
