@@ -36,7 +36,7 @@ const makeCards = (numOfCards) => {
                         </div>` 
         let cardDiv = document.createElement('div')    
         cardDiv.innerHTML = inHTML  
-        console.log(cardDiv)    
+           
 
         // add event listener to check if queen was found // fix src for diffent host machines
         cardDiv.addEventListener('click', (e) => {          
