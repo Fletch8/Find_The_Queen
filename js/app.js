@@ -41,12 +41,17 @@ const makeCards = (numOfCards) => {
         // add event listener to check if queen was found // fix src for diffent host machines
         cardDiv.addEventListener('click', (e) => {          
             let id = cardDiv.childNodes[0].attributes[0].value   
-            cardDiv.childNodes[0].childNodes[1].style.transform = 'rotateY(180deg)'            
-            console.log(cardDiv.childNodes)
-            // checks element ID for 'queen'
+            cardDiv.childNodes[0].childNodes[1].style.transform = 'rotateY(180deg)'
+
+            // cardDiv.childNodes[0].childNodes[1].childNodes[3].childNodes[1].attributes[0] = 'src="assets/2-OfHearts.png"'
+            // console.log(cardDiv.childNodes[0].childNodes[1].childNodes[3].childNodes[1].attributes[0] = 'src="assets/2-OfHearts.png"')
+
+            // checks element ID for queen, if not found l 
             if (id == 'queen'){
                 console.log('You Found The QUEEN!!!')
-                e.target.src = `http://127.0.0.1:5500/assets/queenOfHearts.png`
+                // e.target.src = `http://127.0.0.1:5500/assets/queenOfHearts.png`
+                // sets src for img
+                cardDiv.childNodes[0].childNodes[1].childNodes[3].childNodes[1].attributes[0] = 'src="assets/queenOfHearts.png"'
                 // just restarts game right now, eventually will start next round after setTimeout()
                 if(confirm('You found the Queen!! play again')){
                     reset()
@@ -56,7 +61,9 @@ const makeCards = (numOfCards) => {
             }else{
                 lives = lives - 1
                 livesH1.innerText = `Lives: ${lives}`               
-                e.target.src = `http://127.0.0.1:5500/assets/${id}-OfHearts.png`
+                // e.target.src = `http://127.0.0.1:5500/assets/${id}-OfHearts.png`
+                // sets src for img
+                cardDiv.childNodes[0].childNodes[1].childNodes[3].childNodes[1].attributes[0] = `src="assets/${id}-OfHearts.png"`
                 if(lives == 0){
                     if(confirm('Oh no! you are out of lives play again')){
                         reset()
